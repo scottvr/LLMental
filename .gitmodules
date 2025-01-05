@@ -1,0 +1,18 @@
+[submodule "chimeracat"]
+	path = chimeracat
+	url = git@github.com:scottvr/chimeracat.git
+[submodule "crumb.py"]
+	path = crumb.py
+	url = git@github.com:scottvr/crumb.py.git
+[submodule "phart"]
+	path = phart
+	url = git@github.com:scottvr/phart.git
+[submodule "fplit"]
+	path = fplit
+	url = git@github.com:scottvr/fplit.git
+[submodule "maxify"]
+	path = maxify
+	url = git@github.com:scottvr/maxify.git
+[submodule "retree"]
+	path = retree
+	url = git@github.com:scottvr/retree.git
