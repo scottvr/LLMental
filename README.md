@@ -5,7 +5,7 @@ LLMental - pronounced like "elemental" ˌe-lə-ˈmen-tᵊl *adj*
 
 ## This meta-repo contains the following github repos as git submodules:
 
-- ### [PHART:](https://github.com/scottvr/phart)
+- ### [phart:](https://github.com/scottvr/phart)
 The Python Hierarchical ASCII Representation Tool - A Pure Python graph visualization in ASCII. Built for networkx, but also supports DOT and graphml inputs. Python API w/cli. Stable releases at PyPi (installable via `pip install phart`
 
 - ### [retree:](https://github.com/scottvr/retree)
